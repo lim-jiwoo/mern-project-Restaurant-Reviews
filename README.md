@@ -1,13 +1,17 @@
-# [MERN Toy Project] Restaurant Reviews
+<h1 align="center">[MERN Toy Project] Restaurant Reviews</h1>
+
+<div align="center"><sub>🔥 Toy Clone project using MERN Stack, courtesy of *freeCodeCamp.org*.</sub></div><br/>
+
+This website allows user to search restaurants by name, zip code, and cuisine type. User can click [View Map] to locate the restaurant on Google Map, or click [View Reviews] to read reviews. They can also login to leave their own reviews.
+
+레스토랑을 검색하고 리뷰를 남길 수 있는 웹사이트입니다. 이름, ZIP 코드, 음식 종류로 레스토랑을 검색할 수 있습니다. [View Map]을 클릭해 구글 맵에서 위치를 확인할 수 있습니다. [View Reivews]를 클릭해 등록된 리뷰를 확인할 수 있으며, 로그인해 직접 리뷰를 남길 수 있습니다.
+
+✔️ Created `2021-08-23`<br/>
+✔️ Using `React` `bootstrap` `axios` `Node.js` `express` `MongoDB`<br/>
+
+<br/>
 
 ![Restaurant_Review_Banner](./banner.png)  
-
-🔥 Toy Clone project using MERN Stack, courtesy of *freeCodeCamp.org*.
-
-This website allows user to search restaurants by name, zip code, and cuisine type. User can click [View Map] to locate the restaurant on Google Map, or click [View Reviews] to read reviews. They can also login to leave their own reviews. 
-
-* Created 2021-08-23
-* Using `React` `bootstrap` `axios` `Node.js` `express` `MongoDB` 
 
 ## Install
 
