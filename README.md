@@ -1,6 +1,6 @@
 <h1 align="center">[MERN Toy Project] Restaurant Reviews</h1>
 
-<div align="center"><sub>🔥 Toy Clone project using MERN Stack, courtesy of *freeCodeCamp.org*.</sub></div><br/>
+<div align="center"><sub>Toy Clone project using MERN Stack, courtesy of *freeCodeCamp.org*.</sub></div><br/>
 
 This website allows user to search restaurants by name, zip code, and cuisine type. User can click [View Map] to locate the restaurant on Google Map, or click [View Reviews] to read reviews. They can also login to leave their own reviews.
 
